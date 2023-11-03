@@ -7,7 +7,7 @@ Bienvenue sur la page d'accueil d'une agence de voyage. Cette page a été cré�
 
 ## Aperçu
 
-![Capture d'écran de la page web](https://ibb.co/m9ZXKmR)
+![Capture d'écran de la page web](https://i.ibb.co/3p6MbwT/booki.webp)
 ## Contenu
 
 - `index.html` : Le fichier HTML principal qui définit la structure de la page.
