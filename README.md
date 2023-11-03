@@ -1,5 +1,5 @@
 # Projet_3
-Page d'accueil d'une agence de voyage avec HTML &amp; CSS
+Page d'accueil d'une agence de voyage avec HTML &amp; CSS.
 
 ## Booki
 
@@ -8,10 +8,11 @@ Bienvenue sur la page d'accueil d'une agence de voyage. Cette page a été cré�
 ## Aperçu
 
 ![Capture d'écran de la page web](https://i.ibb.co/3p6MbwT/booki.webp)
+
 ## Contenu
 
 - `index.html` : Le fichier HTML principal qui définit la structure de la page.
-- `style.css` : Le fichier CSS pour la mise en page et le style.
+- `css/style.css` : Le fichier CSS pour la mise en page et le style.
 - `images/` : Un répertoire contenant les images utilisées sur la page.
 
 ## Utilisation
